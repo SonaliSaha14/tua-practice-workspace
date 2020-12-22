@@ -1,0 +1,2 @@
+com/menu/app/MenuAppWsApplicationTests.java
+ com.menu.app.MenuAppWsApplicationTests

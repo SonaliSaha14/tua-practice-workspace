@@ -1,0 +1,12 @@
+com/menu/app/MenuAppWsApplication.class
+com/menu/app/ui/repository/MenuRepositoryCustom.class
+com/menu/app/exception/MenuAppException.class
+com/menu/app/ui/controller/MenuController.class
+com/menu/app/ui/model/response/MenuAppError.class
+com/menu/app/ui/model/response/Menu.class
+com/menu/app/ui/service/MenuService.class
+com/menu/app/ui/repository/MenuRepository.class
+com/menu/app/ui/repository/MenuRepositoryCustomImpl.class
+com/menu/app/ui/model/request/MenuUpdateRequest.class
+com/menu/app/ui/model/request/MenuRequest.class
+com/menu/app/exception/MenuAppExcpetionHandler.class
